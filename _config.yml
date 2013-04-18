@@ -9,14 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : One in the Jungle Archive
 tagline: Site Tagline
 author :
   name : Name Lastname
   email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -66,15 +63,6 @@ JB :
   #   /assets
   #
   ASSET_PATH : false
-
-  # These paths are to the main pages Jekyll-Bootstrap ships with.
-  # Some JB helpers refer to these paths; change them here if needed.
-  #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
